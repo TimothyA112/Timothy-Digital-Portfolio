@@ -1,0 +1,6 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "bb4a94a12ff7ec22b2e1f1ade65daf121ef7715d8d60c7fdd4f1dc513cb662d4"
+build_start_time: [1666818707, 978677988]
+build_end_time: [1666818708, 156450033]
+inputs:
+  "/home/timothy-andresen/Digital Portfolio/CS-II/Projects/InsertionSort/main.swift": [1666818703, 392117500]
